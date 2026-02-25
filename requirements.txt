@@ -5,3 +5,4 @@ langchain-experimental
 matplotlib
 seaborn
 python-dotenv
+tabulate
